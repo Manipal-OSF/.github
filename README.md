@@ -1,1 +1,1 @@
-# .github
+# Manipal OSF
